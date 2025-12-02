@@ -8,7 +8,19 @@
 ![Preview](./public/new-preview.png)
 
 ArtisTree is a customizable landing page for music artists.
+
 It works like a modern “link-in-bio” for social networks: centralizing links to your platforms (Spotify, Apple Music, YouTube, etc.), upcoming shows, releases, and booking contacts.
+
+> Forked from: https://github.com/francosuarez-dev/artistree
+
+```sh
+mak help
+#make install && make dev
+#make container-dev
+```
+
+---
+
 
 Built with [Astro](https://astro.build/) + TailwindCSS v4, and designed to be easily configured via a single file: `src/data/site.json`.
 
